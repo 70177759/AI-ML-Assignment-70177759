@@ -1,0 +1,12 @@
+# Data and checkpoints
+data/
+*.pt
+*.pth
+*.h5
+*.pkl
+*.parquet
+*.arrow
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
